@@ -1,0 +1,12 @@
+<webviews>
+	<view-services>
+		<view-service>
+		    <!-- example -->
+		    <id-WebView>homeView</id-WebView>
+		 	<class-name>com.honey.jsService.Gen</class-name>
+		 	<html-interface-name>MyView</html-interface-name>
+		 	<url>file:///android_asset/web/home.html</url>  
+		 	<map></map>
+  		</view-service>
+	</view-services>
+</webviews>
